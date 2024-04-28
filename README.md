@@ -2,7 +2,8 @@
 - Для запуска тестов должны быть установлены пакеты pytest и requests
 - Запуск всех тестов выполняется командой pytest
 
-![**Скриншот результата выполнения теста** ](https://drive.google.com/file/d/1W9qB0YnrpX-y07tz-2xl5DdIVk2f5JUB/view?usp=sharing)
+![**Скриншот результата выполнения теста** ]
+(https://drive.google.com/file/d/1W9qB0YnrpX-y07tz-2xl5DdIVk2f5JUB/view?usp=sharing) 
 
 ## SQL-запросы
 
