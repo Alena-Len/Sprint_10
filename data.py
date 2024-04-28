@@ -1,12 +1,11 @@
-headers = {
-    "Authorization": "Bearer 55183e31-e59d-40b0-9c1b-31d296bb5397",
-    "Content-Type": "application/json",
-}
-
-user_body = {
-    "firstName": "Анатолий",
-    "phone": "+79995553322",
+order_body = {
+    "firstName": "Иван",
+    "lastName": "Иванов",
     "address": "г. Москва, ул. Пушкина, д. 10",
+    "metroStation": 4,
+    "phone": "+7 800 355 35 35",
+    "rentTime": 5,
+    "deliveryDate": "2020-06-06",
+    "comment": "blah blah blah",
+    "color": ["BLACK"],
 }
-
-kit_body = {"name": "Мой набор"}
